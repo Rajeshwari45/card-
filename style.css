@@ -1,70 +1,67 @@
-
-    body {
-      background-color: lightgray;
+body {
+      background-color: white;
    
 }
 
       .card {
             width: 300px;
-            background-color: rgb(39, 39, 141);
-            color: rgb(255, 219, 224);
+            background-color: rgb(30, 85, 122);
+            color: white;
             border-radius: 8px;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
             padding: 50px;
             margin: 50px;
             transition: 0.3s;
-            box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+            box-shadow: 0 4px 8px 0 rgba(231, 159, 159, 0.2);
+            margin-right: 10px;
+            margin-bottom: 200px;
+            margin-top: 10px;
+            margin-left: 800px;
+            position: absolute;
+
         
      }
-        
-    .card h2 {
-            color: white;
-            margin-bottom: 10px;
-        }
-     .card p {
-            color: white;
-        } 
 
-        .info {
-            text-align: center;
-        }
+     .card1 {
+            width: 300px;
+            background-color: rgb(30, 85, 122);
+            color: white;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            padding: 50px;
+            margin: 50px;
+            transition: 0.3s;
+            box-shadow: 0 4px 8px 0 rgba(231, 159, 159, 0.2);
+            margin-top: 10px;
+  
+     }
 
-        .card {
-            box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-            max-width: 300px;
-            margin: auto;
-            font-family: arial;
-          }
+     .card2 {
+            width: 300px;
+            background-color: rgb(30, 85, 122);
+            color: white;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            padding: 50px;
+            margin: 50px;
+            transition: 0.3s;
+            box-shadow: 0 4px 8px 0 rgba(231, 159, 159, 0.2);
+            margin-right: 10px;
+            margin-bottom: 30px;
+            position: absolute;
+     }
            
           .title {
             color: grey;
             font-size: 18px;
             text-align: center;
           }
-          
-          button {
-            border: none;
-            outline: 0;
-            display: inline-block;
-            padding: 8px;
-            color: white;
-            background-color: #000;
-            text-align: center;
-            cursor: pointer;
-            width: 100%;
-            font-size: 18px;
-          }
-          
-          a {
-            text-decoration: none;
-            font-size: 22px;
-            color: black;
-          }
-          
-          button:hover, a:hover {
-            opacity: 0.7;
-          }
 
+          .detail {
+            text-align: center;
+          }
+   
+        
           
 
     
